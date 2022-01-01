@@ -46,3 +46,4 @@ Only one memory card is supported at this time. You can load it the same as the 
 # Which games run
 
 I have started a [compatibility list](./compatability.md). So feel free to update it.
+all i am doing is just updating compatibility
